@@ -1,2 +1,2 @@
-# NS_devito
-Solving Navier Stokes equation with Devito
+# PDE
+Numerical computation of diffusion and wave equation in Python
