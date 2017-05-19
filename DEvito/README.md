@@ -1,2 +1,2 @@
-# NS_devito
-Solving Navier Stokes equation with Devito
+# PDE/DEvito
+Solving diffusion one-dimensional diffusion and wave equation using Devito
