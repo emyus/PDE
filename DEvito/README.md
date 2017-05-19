@@ -1,2 +1,2 @@
-# PDE
-Numerical computation of one-dimensional diffusion and wave equation in Python
+# PDE/Devito
+Numerical computation of one-dimensional diffusion and wave equation using Devito
